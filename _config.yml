@@ -96,10 +96,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "BiliBili",
-        href: "https://www.bilibili.com/"
-    },{
+{
         title: "RyanXin",
         href: "https://www.ryanxin.cn"
     },{
@@ -112,5 +109,4 @@ friends: [
         title: "爱幻想的Ren",
         href: "https://fantasy-ren.tech/"
     }
-
 ]
