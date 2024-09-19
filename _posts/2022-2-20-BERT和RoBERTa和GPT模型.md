@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      Google Play App 用户评论多分类项目
+title:      BERT和RoBERTa和GPT模型
 subtitle:   深度学习
-date:       2023-7-9
+date:       2022-2-20
 author:     月月鸟
 header-img: img/text-classification.png
 catalog: true
 tags:
-    - NLP
+    - Deep Learning
 ---
 
 
